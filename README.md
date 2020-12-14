@@ -10,7 +10,7 @@
 
 Hi, I'm [Israel Fonseca!], a passionate self-taught Full Stack Web Developer 🚀 from México.
 
-  <img align="right" alt="GIF" src="https://github.com/isfon/isfon/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/isfon/isfon/blob/main/code.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
