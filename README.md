@@ -32,6 +32,8 @@ Hi, I'm [Israel Fonseca!], a passionate self-taught Full Stack Web Developer ğŸš
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+<br />
+
 ğŸ“ˆ My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isfon&show_icons=true&theme=gotham" alt="isfon" />
