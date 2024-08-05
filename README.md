@@ -1,43 +1,66 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/ifonseca92">
-  <img align="left" alt="Israel Fonseca | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/isfon/">
-  <img align="left" alt="Israel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+# ¡Hola, soy Israel Fonseca! 👋
 
-<br />
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-Hi, I'm [Israel Fonseca!], a passionate self-taught Full Stack Web Developer 🚀 from México.
+<p align="center">
+  <a href="https://twitter.com/ifonseca92" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/isfon/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
-  <img align="right" alt="GIF" src="https://github.com/isfon/isfon/blob/main/code.gif" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=isfon&style=flat-square&color=blue" alt=""/>
+</p>
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@ifonseca92](https://twitter.com/ifonseca92);
-- 📝[Resume](https://drive.google.com/file/d/1-4gMSqXPWTJHf5pqbC3dmsFA7BccQ5ec/view?usp=sharing)
+---
 
-**Languages and Tools:**  
+### 👨‍💻 Sobre mí
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+Soy un apasionado Desarrollador Web Full Stack 🚀 de México, siempre en busca de nuevos desafíos y oportunidades para aprender.
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"/>
 
-<br />
+- 🔭 Actualmente estoy trabajando en un proyecto emocionante 😉
+- 🌱 Estoy aprendiendo TypeScript y mejorando mis habilidades en React
+- 💬 Pregúntame sobre JavaScript, Vue.js, React, Node.js o cualquier tema tech
+- 📫 Contáctame: [@ifonseca92](https://twitter.com/ifonseca92)
+- 📄 Conoce mis experiencias: [Curriculum](https://drive.google.com/file/d/1-4gMSqXPWTJHf5pqbC3dmsFA7BccQ5ec/view?usp=sharing)
+- ⚡ Dato curioso: ¡Me encanta resolver problemas de código mientras escucho música electrónica!
 
-📈 My GitHub Stats
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isfon&show_icons=true&theme=gotham" alt="isfon" />
+### 🛠 Lenguajes y Herramientas
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### 🔥 Mis Estadísticas y Habilidades
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isfon&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=isfon&show_icons=true&theme=radical)
+
+---
+
+### 📫 Conecta conmigo
+
+¡No dudes en contactarme para colaboraciones o simplemente para charlar sobre tecnología!
 
 
 
