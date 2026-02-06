@@ -1,6 +1,7 @@
 <div align="center">
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+  <br/>
 
   <a href="https://github.com/denvercoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Hi,+I'm+Israel+Fonseca+👋;Full+Stack+Web+Developer+🚀;Cloud+Architecture+(AWS/GCP)+☁️;AI+Automation+%26+Agents+🤖" alt="Typing SVG" />
@@ -67,9 +68,9 @@ I'm a passionate **Full Stack Developer** from Mexico 🇲🇽, constantly evolv
 ### 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isfon&show_icons=true&theme=tokyonight&hide_border=true" alt="Israel's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isfon&show_icons=true&theme=tokyonight&hide_border=true" alt="Israel's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=isfon&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=isfon&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 ---
