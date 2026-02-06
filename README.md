@@ -70,7 +70,7 @@ I'm a passionate **Full Stack Developer** from Mexico 🇲🇽, constantly evolv
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isfon&show_icons=true&theme=tokyonight&hide_border=true" alt="Israel's GitHub stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=isfon&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isfon&theme=tokyonight" alt="Israel's Activity Graph" />
 </div>
 
 ---
